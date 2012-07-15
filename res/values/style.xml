@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="TranslucentGreen" parent="android:Theme.Translucent">
+        <item name="android:windowBackground">@color/clogrey1</item>
+    </style>
+
+</resources>
